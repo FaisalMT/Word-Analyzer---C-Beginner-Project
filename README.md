@@ -20,6 +20,3 @@ This project was created as practice for a Programming 1 course to understand:
 - String manipulation
 - Loops
 - Basic logic building in C++
-
-## 🚀 How to Run
-1. Compile the code:
